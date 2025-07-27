@@ -20,9 +20,8 @@ I’m focused on building user-friendly, mobile-responsive websites that deliver
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio**: [alihaiderwebdev.github.io](https://alihaiderwebdev.github.io)  
-- 💼 **LinkedIn**: [linkedin.com/in/alihaiderwebdev](https://linkedin.com/in/alihaiderwebdev) *(Add your real link)*  
-- ✉️ **Email**: alihaider@example.com *(Add your real email)*  
+- 🌐 **Portfolio**: [alihaiderwebdev.github.io](https://alihaiderwebdev.github.io)   
+- ✉️ **Email**: alihaidersinfo@gmail.com  
 - 🐙 **GitHub**: [github.com/alihaiderwebdev](https://github.com/alihaiderwebdev)
 
 ---
