@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Ali Haider
 
-<!--
-**alihaiderwebdev/alihaiderwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate Junior Frontend Developer**  
+🎯 Dedicated to crafting clean, modern, and responsive websites using:
 
-Here are some ideas to get you started:
+- 🧩 **HTML**
+- 🎨 **CSS**
+- ⚙️ **JavaScript**
+- ⚛️ Currently exploring **React.js**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+I’m focused on building user-friendly, mobile-responsive websites that deliver real value. Whether it's a simple landing page or a complex web interface, I aim to make each project visually appealing and performance-driven.
+
+🌍 Currently accepting freelance projects and open to collaboration opportunities.
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **Portfolio**: [alihaiderwebdev.github.io](https://alihaiderwebdev.github.io)  
+- 💼 **LinkedIn**: [linkedin.com/in/alihaiderwebdev](https://linkedin.com/in/alihaiderwebdev) *(Add your real link)*  
+- ✉️ **Email**: alihaider@example.com *(Add your real email)*  
+- 🐙 **GitHub**: [github.com/alihaiderwebdev](https://github.com/alihaiderwebdev)
+
+---
+
+## 🛠️ Tools & Skills
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-121013?logo=github&logoColor=white&style=flat-square)
+
+---
+
+📌 *Always learning. Always building. Let’s grow together!*
