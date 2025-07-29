@@ -1,38 +1,46 @@
-# 👋 Hi, I’m Ali Haider
+# Ali Haider — Frontend Web Developer
 
-🚀 **Passionate Junior Frontend Developer**  
-🎯 Dedicated to crafting clean, modern, and responsive websites using:
-
-- 🧩 **HTML**
-- 🎨 **CSS**
-- ⚙️ **JavaScript**
-- ⚛️ Currently exploring **React.js**
+I'm a passionate Frontend Developer with a focus on building responsive, user-friendly websites using modern web technologies. I specialize in **HTML**, **CSS**, and **JavaScript**, and I’m currently deepening my skills in **React.js** to create more dynamic, scalable web applications.
 
 ---
 
-## 💼 About Me
+## About Me
 
-I’m focused on building user-friendly, mobile-responsive websites that deliver real value. Whether it's a simple landing page or a complex web interface, I aim to make each project visually appealing and performance-driven.
+I create websites that are clean, modern, and mobile-responsive. My goal is to deliver front-end solutions that not only look good but also perform smoothly across devices.
 
-🌍 Currently accepting freelance projects and open to collaboration opportunities.
-
----
-
-## 📫 Let's Connect
-
-- 🌐 **Portfolio**: [alihaiderwebdev.github.io](https://alihaiderwebdev.github.io)   
-- 🐙 **GitHub**: [github.com/alihaiderwebdev](https://github.com/alihaiderwebdev)
+- Strong foundation in semantic HTML and CSS layout techniques
+- Solid JavaScript skills for interactivity and logic
+- Continuously learning React.js to enhance functionality and user experience
+- Committed to writing clean, maintainable code
+- Open to freelance work, remote opportunities, and collaborative projects
 
 ---
 
-## 🛠️ Tools & Skills
+## Portfolio
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat-square)
-![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-121013?logo=github&logoColor=white&style=flat-square)
+▶️ **Live Website**: [alihaiderwebdev.github.io](https://alihaiderwebdev.github.io)
+
+This portfolio showcases selected projects and demos that reflect my current capabilities. It is regularly updated as I grow and learn new technologies.
 
 ---
 
-📌 *Always learning. Always building. Let’s grow together!*
+## Skills & Tools
+
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design (Flexbox, Grid, Media Queries)
+- Version Control: Git & GitHub
+- Basic React.js (functional components, props, JSX)
+- GitHub Pages (for deploying static websites)
+
+---
+
+## Get in Touch
+
+- GitHub: [github.com/alihaiderwebdev](https://github.com/alihaiderwebdev)
+- LinkedIn: 
+- Email: alihaidersinfo@gmail.com
+
+---
+
+**Currently open to freelance opportunities, internships, and collaborations.**  
+I’m motivated, dependable, and always eager to take on new challenges.
