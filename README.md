@@ -37,7 +37,6 @@ This portfolio showcases selected projects and demos that reflect my current cap
 ## Get in Touch
 
 - GitHub: [github.com/alihaiderwebdev](https://github.com/alihaiderwebdev)
-- LinkedIn: 
 - Email: alihaidersinfo@gmail.com
 
 ---
