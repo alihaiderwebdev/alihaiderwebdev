@@ -1,45 +1,67 @@
-# Ali Haider — Frontend Web Developer
+# Ali Haider — MERN Stack Developer (Frontend-Focused)
 
-I'm a passionate Frontend Developer with a focus on building responsive, user-friendly websites using modern web technologies. I specialize in **HTML**, **CSS**, and **JavaScript**, and I’m currently deepening my skills in **React.js** to create more dynamic, scalable web applications.
+I’m a **MERN Stack Developer** with practical experience building **responsive and scalable web applications** using **React, Node.js, Express, and MongoDB**. I’ve worked on real projects, collaborated with teams, and focus on writing **clean, maintainable code**.
 
 ---
 
 ## About Me
 
-I create websites that are clean, modern, and mobile-responsive. My goal is to deliver front-end solutions that not only look good but also perform smoothly across devices.
+I build modern, scalable web applications with a strong focus on **UI quality, performance, and maintainability**. I work across the **MERN stack**, emphasizing **React-based frontend architecture** while understanding full-stack workflows.
 
-- Strong foundation in semantic HTML and CSS layout techniques
-- Solid JavaScript skills for interactivity and logic
-- Continuously learning React.js to enhance functionality and user experience
-- Committed to writing clean, maintainable code
-- Open to freelance work, remote opportunities, and collaborative projects
+- Strong experience with **React** and component-based UI development
+- Hands-on experience across the **MERN stack (MongoDB, Express, React, Node.js)**
+- Worked on **real-world, team-based projects**
+- Focus on **clean UI, reusable components, and scalable code structure**
+- Comfortable with **Git/GitHub workflows**
+- Strong communication and collaboration skills
+
 
 ---
 
 ## Portfolio
 
-▶️ **Live Website**: [alihaiderwebdev.github.io](https://alihaiderwebdev.github.io)
+🌐 **Live Portfolio**  
+**alihaiderwebdev.github.io**
 
-This portfolio showcases selected projects and demos that reflect my current capabilities. It is regularly updated as I grow and learn new technologies.
+A collection of selected projects demonstrating modern frontend development and MERN stack fundamentals.
+
+---
+
+## Projects
+
+### Telemedicine / Healthcare Platform (Team Project)
+- Built **admin, doctor, and patient dashboards** using **React**
+- Implemented **responsive layouts** and reusable UI components
+- Collaborated using **Git & GitHub** in a team environment
+
+### Personal Portfolio Website
+- Designed and developed a **modern, responsive portfolio**
+- Built with **React, JavaScript, HTML, and CSS**
+- Focused on clean layout, performance, and accessibility
 
 ---
 
 ## Skills & Tools
 
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Design (Flexbox, Grid, Media Queries)
-- Version Control: Git & GitHub
-- Basic React.js (functional components, props, JSX)
-- GitHub Pages (for deploying static websites)
+**Frontend**
+- React.js, JavaScript (ES6+)
+- HTML5, CSS3, Responsive Design
+
+**Backend**
+- Node.js, Express.js
+- MongoDB, REST APIs
+
+**Tools**
+- Git & GitHub
+- VS Code, Postman
 
 ---
 
-## Get in Touch
+## Contact
 
-- GitHub: [github.com/alihaiderwebdev](https://github.com/alihaiderwebdev)
-- Email: alihaidersinfo@gmail.com
+- 🌐 **Portfolio:** alihaiderwebdev.github.io  
+- 📧 **Email:** alihaidersinfo@gmail.com  
 
 ---
 
-**Currently open to freelance opportunities, internships, and collaborations.**  
-I’m motivated, dependable, and always eager to take on new challenges.
+Open to **frontend or MERN-based roles**, freelance projects, and collaboration opportunities.
