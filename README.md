@@ -21,7 +21,7 @@ I build modern, scalable web applications with a strong focus on **UI quality, p
 ## Portfolio
 
 🌐 **Live Portfolio**  
-**alihaiderwebdev.github.io**
+**https://alihaiderwebdev.me**
 
 A collection of selected projects demonstrating modern frontend development and MERN stack fundamentals.
 
@@ -59,7 +59,7 @@ A collection of selected projects demonstrating modern frontend development and 
 
 ## Contact
 
-- 🌐 **Portfolio:** alihaiderwebdev.github.io  
+- 🌐 **Portfolio:** https://alihaiderwebdev.me  
 - 📧 **Email:** alihaidersinfo@gmail.com  
 
 ---
